@@ -1,0 +1,50 @@
+html{	
+	
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	margin-left: 400PX;
+	
+
+}
+
+body {
+	background-image: url(file:///C:/DIO_projetos/aula_html5_css3/imagens/img05.png);
+	background-repeat: no-repeat;
+	font-family: Verdana, Geneva, Tahoma, sans-serif; 
+	color: #011133;
+	width: 100%;
+    height: 100%;
+}
+
+header{
+	margin-top: 50px;
+}
+
+title{
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	font-size: 50px;
+  
+}
+
+ul{
+	text-align: left;
+	list-style-type: none;
+	font-size: 20px;
+	color: #011133;
+	font-variant: small-caps;
+}
+
+p{
+	font-size: 30px;
+	color: #011133;
+}
+
+.img_padrao{
+	margin: 30px 30px 30px 30px;
+	width: 300px;
+
+}
+.img_logo{
+	width: 100px;
+	margin-left: 10px 10px 10px 10px;
+
+}
